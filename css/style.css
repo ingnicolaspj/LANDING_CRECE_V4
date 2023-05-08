@@ -70,7 +70,7 @@ body{
     height: 86vh;
     background-image: linear-gradient(to right, #30cfd0 0%, #330867 100%);
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 0.8fr 1fr;
     place-items: center;
     font-family: 'Barlow', sans-serif;  
 }
@@ -87,6 +87,7 @@ body{
     color:#f6be2b;
     font-size: 4em;
     text-align: center;
+    margin-bottom: 1em;
 }
 
 .principal .titulos_textos ul{
